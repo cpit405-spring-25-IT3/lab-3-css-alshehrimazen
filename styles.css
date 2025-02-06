@@ -1,0 +1,6 @@
+.image-preview img {
+  border-top: 15px solid #85ceed;
+  border-right: 15px solid lightpink;
+  border-bottom: 15px solid lightgreen;
+  border-left: 15px solid #ffefd5;
+}
